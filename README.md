@@ -1,9 +1,3 @@
-[![whishper banner](misc/banner.png)](https://whishper-docs.pages.dev/)
-
-[![](https://img.shields.io/badge/website-066da5?style=for-the-badge&logo=icloud&logoColor=white)](https://whishper-docs.pages.dev)
-[![](https://img.shields.io/badge/self%20host%20guide-066da5?style=for-the-badge&logo=googledocs&logoColor=white)](https://whishper-docs.pages.dev/guides/install)
-[![](https://img.shields.io/badge/screenshots-5c1f87?style=for-the-badge&logo=slickpic&logoColor=white)](#screenshots)
-[![](https://img.shields.io/docker/pulls/pluja/whishper?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/r/pluja/whishper)
 
 ## 🚧 I am working on a complete rewrite of the project. Progress on this can be seen at [v4 branch](https://github.com/pluja/whishper/tree/v4). Consequently, this branch will not receive any new releases or updates.
 
