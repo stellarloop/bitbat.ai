@@ -70,15 +70,6 @@ These screenshots are available on [the official website](https://whishper-docs.
 - [Bitcoin](https://bitcoin.org/en/): `bc1qfph44jl4cy03stwfkk7g0qlwx2grldr9xpk086`
 - [Lightning Network (kycnotme)](https://getalby.com/p/kycnotme)
 
-## Star History
-
-<a href="https://star-history.com/#pluja/whishper&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=pluja/whishper&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=pluja/whishper&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=pluja/whishper&type=Date" />
-  </picture>
-</a>
 
 ## Credits
 
