@@ -3,6 +3,9 @@
 
 **Whishper** is an open-source, 100% local audio transcription and subtitling suite with a full-featured web UI.
 
+<img width="1206" height="594" alt="image" src="https://github.com/user-attachments/assets/86d31b3f-c6ca-476c-a76b-3c511ca5755a" />
+
+
 ## Features
 
 - [x] 🗣️ **Transcribe any media** to text: audio, video, etc.
